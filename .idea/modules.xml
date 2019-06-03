@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/coffee-thoughts-react-redux.iml" filepath="$PROJECT_DIR$/coffee-thoughts-react-redux.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hike-it.iml" filepath="$PROJECT_DIR$/hike-it.iml" />
     </modules>
   </component>
 </project>
